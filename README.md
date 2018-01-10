@@ -1,2 +1,3 @@
 # J3Compiler
 Undergrad Project | Rajagiri School of Engineering and Technology
+Design a language called J3 and a compiler for it. J3 is a simple numerical language, which can be used for simple calculations. The language contains limited algebraic and arithmetic constructs, which makes it easy to use, learn and understand. The system takes in a J3 program as input, analyzes it and converts into assembly code. J3 compiler is implemented in C language on Linux platform using two compiler construction tools LEX (scanner generator) which generates a stream of tokens based on specifications of the language and YACC (parser generator) which generates a syntax tree from regular expressions.
