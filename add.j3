@@ -1,0 +1,13 @@
+null #func2(num _x);
+null #func3();
+
+null #start()
+{
+num _x,_y;
+point _s;
+_r:=_add+_bad;
+input(_a);
+_y:=_f;
+output(_x);
+}
+
